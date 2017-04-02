@@ -1,2 +1,4 @@
 # hello-world
-another repository
+
+apa nak jadi ?
+belajar la pandai pandai
